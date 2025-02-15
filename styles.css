@@ -1,3 +1,5 @@
+@import url("https://fonts.googleapis.com/css2?family=Lato:wght@400;500;600;700&display=swap");
+
 * {
   margin: 0;
   padding: 0;
@@ -254,12 +256,12 @@ button {
 .support {
   display: flex;
   flex-direction: row;
+  margin-bottom: 15px;
 }
 
 .tick {
-  width: 8%;
+  width: 10%;
   margin-right: 8px;
-  margin-bottom: 15px;
 }
 .rect {
   margin-top: -16px;
